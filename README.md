@@ -1,8 +1,28 @@
-# React + Vite
+Это тестовое задание включает:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Страницу авторизации
+2. Главную страницу с меню и тестовой главной страницей, которая включает любые графики Ant Design на любую тематику
+3. Имитацию ответов от сервера для авторизации
 
-Currently, two official plugins are available:
+## Установка и запуск
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Клонируйте репозиторий:
+    ```bash
+    git clone https://github.com/your-username/test-task-ITDev.git
+    ```
+2. Установите зависимости:
+    ```bash
+    cd test-task-ITDev
+    npm install
+    ```
+3. Запустите проект:
+    ```bash
+    npm start
+    ```
+
+## Использование
+
+### Логин
+
+- Логин: admin
+- Пароль: password
