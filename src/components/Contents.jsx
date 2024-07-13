@@ -168,7 +168,7 @@ const Contents = ({ signout }) => {
 					>
 						<Breadcrumb.Item>Главная</Breadcrumb.Item>
 						<Breadcrumb.Item>Список</Breadcrumb.Item>
-						<Breadcrumb.Item>Контент</Breadcrumb.Item>
+						<Breadcrumb.Item>Курсы</Breadcrumb.Item>
 					</Breadcrumb>
 					<Layout
 						style={{
@@ -260,7 +260,7 @@ const Contents = ({ signout }) => {
 										<Progress type="circle" percent={75} strokeColor="green" />
 										<Progress type="circle" percent={63} />
 									</div>
-									
+
 									<div className="flex items-center mt-2">
 										<h3 className="text-[18px] font-semibold ml-[30px]">
 											Задачи

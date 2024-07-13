@@ -26,7 +26,7 @@ const Login = ({ setToken }) => {
 			onFinish={onFinish}
 			className='max-w-[500px] mx-[600px] p-[50px] border space-y-11 bg-white rounded-xl shadow-md'
 		>
-			<h2 className='text-2xl text-center font-semibold'>Войдите в аккаунт</h2>
+			<h2 className='text-2xl text-center font-semibold'>Войдите в аккаунт!</h2>
 			<Form.Item
 				name="username"
 				rules={[
