@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/test-task-ITDev.git
+    git clone https://github.com/IssaNartay/test-task-ITDev.git
     ```
 2. Установите зависимости:
     ```bash
